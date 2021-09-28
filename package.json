@@ -1,0 +1,15 @@
+{
+  "name": "wa1",
+  "version": "1.0.0",
+  "description": "by bintangp02",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bintangp02",
+  "license": "MIT",
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.5.2",
+    "@open-wa/wa-automate": "^4.22.4"
+  }
+}
