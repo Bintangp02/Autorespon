@@ -1,1 +1,1 @@
-worker : npm i --save @open-wa/wa-automate@latest && node index.js
+web : npm i --save @open-wa/wa-automate@latest && node index.js
