@@ -6,6 +6,8 @@ Autoresponder with me Node.js
 bintangp02.data
 ```
 
+***eror? hapus dulu session nya namanya? bintangp02.data***
+
 ## Heroku
 
  **1.Deploy on heroku**
