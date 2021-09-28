@@ -33,4 +33,5 @@ bintangp02.data
 ## Trimakasih
   
   [penyedia modul](https://github.com/open-wa/wa-automate-nodejs)
+  
   [Bintangp02](https://github.com/Bintangp02)
